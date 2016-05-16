@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 *.zip
 *.rar
 *.7z
 node_modules/
 .DS_Store
+=======
+*.zip
+*.rar
+*.7z
+node_modules/
+.DS_Store
+>>>>>>> master
 Thumbs.db
