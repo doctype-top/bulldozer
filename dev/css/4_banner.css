@@ -1,0 +1,92 @@
+.banner{
+	padding-top: 48px;
+	padding-bottom: 1px;
+	margin-bottom: 35px;
+	background-color: #949ba3;
+}
+.banner-header{
+	margin-bottom: 35px;
+	color: #fff;
+	font-family: "Times New Roman";
+	text-align: center;
+}
+.banner-header h1{
+	font-size: 2.666666666rem;
+	margin-bottom: 20px;
+}
+.banner-header h2{
+	font-size: 1.666666666rem;
+}
+.banner-wrap{
+	position: relative;
+}
+.slider{
+	display: none;
+}
+.slider-form{
+	background-color: #4a4d51;
+}
+.feedback{
+	font-family: "Verdana";
+}
+.feedback-header{
+	padding: 44px 0;
+	text-align: center;
+}
+.feedback-header h1{
+	color:  #f3af00;
+	font-size: 1.66666666666rem;
+	width: 50%;
+	margin: 0 auto 30px auto;
+}
+.feedback-header h2{
+	color: #fff;
+	font-size: 1rem;
+	width: 60%;
+	margin: 0 auto;
+}
+.feedback-fieldset{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.feedback-fieldset input{
+	box-sizing: border-box;
+	padding-left: 10px;
+	display: inline-block;
+	width: 90%;
+	height: 46px;
+	margin-bottom: 25px;
+}
+.feedback-fieldset input[type=submit]{
+	margin-bottom: 0;
+}
+.action{
+	text-align: center;
+}
+.action-header{
+	margin-bottom: 20px;
+}
+.action-header h1{
+	color:  #f3af00;
+	font-size: 2.666666666rem;
+}
+.action-header h2{
+	color: #fff;
+	font-size: 1.66666666666rem;
+}
+.counter{
+	padding-bottom: 10px;
+}
+.countbox-num, .countbox-space, .countbox-num-item{
+	display: inline-block;
+}
+.countbox-num-item{
+	width: 29px;
+	height: 44px;
+	background: url(../img/count.png) no-repeat;
+	line-height: 44px;
+	font-size: 30px;
+}
+.countbox-space{
+	width: 10px;
+}

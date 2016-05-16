@@ -75,5 +75,25 @@
 	.phone-text{
 		font-size: 0.77777777rem;
 	}
-	
+	.banner{
+		padding-top: 30px;
+	}
+	.feedback{
+		width: 250px;
+		height: 340px;
+	}
+	.feedback-header{
+		padding: 35px 0;
+	}
+	.feedback-header h1{
+		margin-bottom: 15px;
+	}
+	.feedback-header h2{
+		font-size: 0.8888888888rem;
+		line-height: 24px;
+		width: 99%;
+	}
+	.feedback-fieldset input{
+		margin-bottom: 15px;
+	}
 }
